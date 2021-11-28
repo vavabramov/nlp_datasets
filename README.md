@@ -29,6 +29,9 @@ These messages were collected from volunteers who were made aware that their con
 
 File name: students_messages.csv
 
+Size: 
+236 kb
+
 Shape:
 (3256, 1)
 
