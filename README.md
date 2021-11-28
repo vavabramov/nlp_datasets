@@ -3,6 +3,8 @@ Various datasets for NLP researches, kaggle competitions and other practical usa
 
 # Cryptocurrency tweets
 
+File name: crypto_tweets.csv
+
 Size: 
 843 kb
 
